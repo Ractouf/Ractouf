@@ -3,7 +3,7 @@
         <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30" alt="wave hand">
     </h2>
 
-I am a student in computer science management at the high school "Leonard de Vinci - Paul Lambin"
+I am a student in computer science at the high school "Leonard de Vinci - Paul Lambin"
 <br />
 
 I'm currently based in **[Brussels, Belgium.](https://www.google.com/maps/place/Brussels/@50.8552114,4.3053777,12z/data=!3m1!4b1!4m5!3m4!1s0x47c3a4ed73c76867:0xc18b3a66787302a7!8m2!3d50.8476407!4d4.3571734)**
