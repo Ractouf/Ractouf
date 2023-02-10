@@ -45,3 +45,6 @@ Ask me anything **[here](https://discordapp.com/users/310156294504054785)** or <
 
 </div>
 <br />
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=cdhaeyere&&style=flat-square" align="center" />
+</div>
