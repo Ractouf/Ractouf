@@ -31,7 +31,7 @@ Ask me anything **[here](https://discordapp.com/users/310156294504054785)** or <
 <br />
 <a margin="10" href="https://www.java.com/fr/" target="_blank"><img margin="10px" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java"></a>
 <a margin="10" href="https://www.cprogramming.com/" target="_blank"><img margin="10px" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C"></a>
-<a margin="10" href="https://flutter.dev/" target="_blank"><img margin="10px" height="40" src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png" alt="Flutter"></a>
+<a margin="10" href="https://flutter.dev/" target="_blank"><img margin="10px" height="40" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter"></a>
 <br />
 <br />
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML"></a>
