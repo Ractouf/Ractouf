@@ -29,20 +29,24 @@ Ask me anything **[here](https://discordapp.com/users/310156294504054785)** or <
 
 ## Tech Stack
 <br />
-<a margin="10" href="https://www.java.com/fr/" target="_blank"><img margin="10px" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java"></a>
-<a margin="10" href="https://www.cprogramming.com/" target="_blank"><img margin="10px" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="c"></a>
+<a margin="10" href="https://www.java.com/fr/" target="_blank"><img margin="10px" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java"></a>
+<a margin="10" href="https://www.cprogramming.com/" target="_blank"><img margin="10px" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C"></a>
 <br />
 <br />
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript"></a>
-<a margin="10" href="https://www.typescriptlang.org/docs/" target="_blank"><img margin="10px" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="typescript"></a>
-<a margin="10" href="https://vuejs.org/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS"></a>
+<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript"></a>
+<a margin="10" href="https://www.typescriptlang.org/docs/" target="_blank"><img margin="10px" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="Typescript"></a>
+<a margin="10" href="https://vuejs.org/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js"></a>
 <br />
 <br />
-<a margin="10" href="https://nodejs.org/en/" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/512/nodejs.png" alt="node.js"></a>
-<a margin="10" href="https://expressjs.com/" target="_blank"><img margin="10px" height="40" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234-p-500.png" alt="express.js"></a>
-
+<a margin="10" href="https://nodejs.org/en/" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/512/nodejs.png" alt="Node.js"></a>
+<a margin="10" href="https://expressjs.com/" target="_blank"><img margin="10px" height="40" src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234-p-500.png" alt="Express.js"></a>
+<a margin="10" href="https://jakarta.ee/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Jakarta_ee_logo_stacked.png/1200px-Jakarta_ee_logo_stacked.png" alt="Jakarta EE"></a>
+<br />
+<br />
+<a margin="10" href="https://www.postgresql.org/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL"></a>
+<a margin="10" href="https://www.mysql.com/fr/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="MySQL"></a>
 </div>
 <br />
 <div align="center">
