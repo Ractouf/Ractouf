@@ -33,7 +33,6 @@ Ask me anything **[here](https://discordapp.com/users/310156294504054785)** or <
 <a margin="10" href="https://www.cprogramming.com/" target="_blank"><img margin="10px" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C"></a>
 <a margin="10" href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank"><img margin="10px" height="40" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" alt="C#"></a>
 <a margin="10" href="https://dart.dev/" target="_blank"><img margin="10px" height="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="Dart"></a>
-<a margin="10" href="https://flutter.dev/" target="_blank"><img margin="10px" height="40" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter"></a>
 <br />
 <br />
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML"></a>
@@ -41,6 +40,12 @@ Ask me anything **[here](https://discordapp.com/users/310156294504054785)** or <
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript"></a>
 <a margin="10" href="https://www.typescriptlang.org/docs/" target="_blank"><img margin="10px" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="Typescript"></a>
 <a margin="10" href="https://vuejs.org/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js"></a>
+<a margin="10" href="https://fr.legacy.reactjs.org/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React"></a>
+<br />
+<br />
+<a margin="10" href="https://flutter.dev/" target="_blank"><img margin="10px" height="40" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter"></a>
+<a margin="10" href="https://spring.io/" target="_blank"><img margin="10px" height="40" src="https://www.clipartmax.com/png/small/117-1171017_spring-logo-spring-framework-logo.png" alt="Spring"></a>
+<a margin="10" href="https://learn.microsoft.com/fr-fr/dotnet/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".NET"></a>
 <br />
 <br />
 <a margin="10" href="https://nodejs.org/en/" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/512/nodejs.png" alt="Node.js"></a>
