@@ -44,7 +44,7 @@ Ask me anything **[here](https://discordapp.com/users/310156294504054785)** or <
 <br />
 <br />
 <a margin="10" href="https://flutter.dev/" target="_blank"><img margin="10px" height="40" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter"></a>
-<a margin="10" href="https://spring.io/" target="_blank"><img margin="10px" height="40" src="https://www.clipartmax.com/png/small/117-1171017_spring-logo-spring-framework-logo.png" alt="Spring"></a>
+<a margin="10" href="https://spring.io/" target="_blank"><img margin="10px" height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring"></a>
 <a margin="10" href="https://learn.microsoft.com/fr-fr/dotnet/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".NET"></a>
 <br />
 <br />
