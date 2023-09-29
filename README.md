@@ -30,6 +30,7 @@ Ask me anything **[here](https://discordapp.com/users/310156294504054785)** or <
 ## Tech Stack
 <br />
 <a margin="10" href="https://www.java.com/fr/" target="_blank"><img margin="10px" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java"></a>
+<a margin="10" href="https://www.python.org/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python"></a>
 <a margin="10" href="https://www.cprogramming.com/" target="_blank"><img margin="10px" height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C"></a>
 <a margin="10" href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank"><img margin="10px" height="40" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" alt="C#"></a>
 <a margin="10" href="https://dart.dev/" target="_blank"><img margin="10px" height="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="Dart"></a>
