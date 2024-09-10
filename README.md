@@ -3,16 +3,6 @@
         <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30" alt="wave hand">
     </h2>
 
-I am a student in computer science at the high school "Leonard de Vinci - Paul Lambin"
-<br />
-
-I'm currently based in **[Brussels, Belgium.](https://www.google.com/maps/place/Brussels/@50.8552114,4.3053777,12z/data=!3m1!4b1!4m5!3m4!1s0x47c3a4ed73c76867:0xc18b3a66787302a7!8m2!3d50.8476407!4d4.3571734)**
-
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything **[here](https://discordapp.com/users/310156294504054785)** or <a href="mailto:francois.vandeputte@student.vinci.be"><b>send me an email</b></a>.
-<br />
-<br />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ractouf&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Github Stats">
 <br />
 <br />
