@@ -33,7 +33,7 @@
 <a margin="10" href="https://www.php.net/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="PHP"></a>
 <br />
 <br />
-<a margin="10" href="https://angular.io/" target="_blank"><img margin="10px" height="40" src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif" alt="Angular"></a>
+<a margin="10" href="https://angular.io/" target="_blank"><img margin="10px" height="40" src="https://js.devexpress.com/Content/Images/Frameworks/Angular.png" alt="Angular"></a>
 <a margin="10" href="https://vuejs.org/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js"></a>
 <a margin="10" href="https://fr.legacy.reactjs.org/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React"></a>
 <a margin="10" href="https://www.solidjs.com/" target="_blank"><img margin="10px" height="40" src="https://avatars.githubusercontent.com/u/79226042?s=280&v=4" alt="Solid.js"></a>
