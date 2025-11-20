@@ -22,7 +22,7 @@
 <a margin="10" href="https://www.java.com/fr/" target="_blank"><img margin="10px" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java"></a>
 <a margin="10" href="https://www.python.org/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python"></a>
 <a margin="10" href="https://www.cprogramming.com/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="C"></a>
-<a margin="10" href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank"><img margin="10px" height="40" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" alt="C#"></a>
+<a margin="10" href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank"><img margin="10px" height="40" src="https://www.netgen.co.za/wp-content/uploads/2022/03/C-image-for-Netgen.png" alt="C#"></a>
 <a margin="10" href="https://dart.dev/" target="_blank"><img margin="10px" height="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" alt="Dart"></a>
 <br />
 <br />
