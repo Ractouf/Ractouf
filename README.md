@@ -2,13 +2,6 @@
     <h2> Hi There, Welcome to my GitHub profile! 
         <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30" alt="wave hand">
     </h2>
-
-[![Ractouf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ractouf)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-<br />
-
-**Happy Coding!** 😊
-
 </div>
 
 <div align="center">
