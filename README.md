@@ -16,12 +16,6 @@
 
 Keeps track of house listings from Immoweb, the main Belgian real estate site: sort them into yes / maybe / no, follow price changes and see which ones were removed.
 
-### 🎲 [swap](https://github.com/Ractouf/swap)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Fabric](https://img.shields.io/badge/Fabric_Mod-DBD0B4?style=flat-square)
-
-A Minecraft mod that shuffles what every block, mob and chest drops. Mine a diamond and you might get bread. Includes a screen to track the drops you've found.
-
 ### 🎮 [Grior](https://github.com/Ractouf/web2-2022-project-group-03)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Babylon.js](https://img.shields.io/badge/Babylon.js-BB464B?style=flat-square&logo=babylondotjs&logoColor=white)
@@ -29,18 +23,6 @@ A Minecraft mod that shuffles what every block, mob and chest drops. Mine a diam
 A 3D platformer that runs in the browser: 6 levels to run and jump through as fast as you can. School project made in a team of 5.
 
 ➡️ [Play it](https://ractouf.github.io/web2-2022-project-group-03/)
-
-### 💀 [Group Death](https://github.com/Ractouf/groupdeath)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Fabric](https://img.shields.io/badge/Fabric_Mod-DBD0B4?style=flat-square)
-
-A Minecraft server mod for hardcore runs with friends: when one player dies, everyone dies.
-
-### ⛏️ [Minecraft Server](https://github.com/Ractouf/minecraft-server)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-The setup of my hardcore Minecraft server, with a script that deletes the world and starts a new one as soon as someone dies.
 
 ### 🏆 [Beckers Cup](https://github.com/Ractouf/beckers-cup)
 
@@ -55,6 +37,24 @@ The website of a yearly pétanque tournament: brackets and results of every edit
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Arch_Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=white)
 
 The config of my Linux desktop, with a script that installs and sets it all up on a fresh Arch Linux install.
+
+### 🎲 [swap](https://github.com/Ractouf/swap)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Fabric](https://img.shields.io/badge/Fabric_Mod-DBD0B4?style=flat-square)
+
+A Minecraft mod that shuffles what every block, mob and chest drops. Mine a diamond and you might get bread. Includes a screen to track the drops you've found.
+
+### 💀 [Group Death](https://github.com/Ractouf/groupdeath)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Fabric](https://img.shields.io/badge/Fabric_Mod-DBD0B4?style=flat-square)
+
+A Minecraft server mod for hardcore runs with friends: when one player dies, everyone dies.
+
+### ⛏️ [Minecraft Server](https://github.com/Ractouf/minecraft-server)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+The setup of my hardcore Minecraft server, with a script that deletes the world and starts a new one as soon as someone dies.
 
 <br />
 
